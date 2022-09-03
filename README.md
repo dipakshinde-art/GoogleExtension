@@ -15,6 +15,12 @@
 - HTML
 - CSS 
 
+## Medium Blog link
+https://medium.com/@rjchakraborty98/google-extension-toggle-light-dark-mode-bbdf6e0796d4
+
+## Video Presentation link
+https://drive.google.com/file/d/1HFGd65JQZZSsEwbfuRPWpES0Oe8kMD_r/view?usp=sharing
+
 ## Glimpse  of our extension:
 **Dark Mode**
 ![image](https://user-images.githubusercontent.com/70229744/188106686-72547837-04e5-40ad-86f8-addd3d4bd730.png)
